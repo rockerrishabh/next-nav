@@ -1,11 +1,10 @@
 import Layout from "../components/Layout";
 
-const Offline = () => {
-  return (
+export default () => (
     <>
+      <Head>
+        <title>Gaming Dunia</title>
+      </Head>
       <Layout />
     </>
-  );
-};
-
-export default Offline;
+);
