@@ -7,5 +7,9 @@ export default () => (
         <title>Gaming Dunia</title>
       </Head>
       <Layout />
-    </>
+    <div>
+        <h1>hello
+        </h1>
+    </div>
+   </>
 );
