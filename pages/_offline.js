@@ -1,6 +1,6 @@
 import Layout from "../components/Layout";
 
-const _offline = () => {
+const Offline = () => {
   return (
     <>
       <Layout />
@@ -8,4 +8,4 @@ const _offline = () => {
   );
 };
 
-export default _offline;
+export default Offline;
