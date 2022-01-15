@@ -1,7 +1,7 @@
 import Layout from "../components/Layout";
 import Head from 'next/head';
 
-export default () => (
+const Offline = () => (
     <>
       <Head>
         <title>Gaming Dunia</title>
@@ -13,3 +13,5 @@ export default () => (
     </div>
    </>
 );
+
+export default Offline;
